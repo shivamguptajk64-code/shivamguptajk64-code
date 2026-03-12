@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shivam gupta</h1>
+<h1 align="center">Hi there👋 I'm shivam gupta!</h1>
 
 ![logo](https://github.com/shivamguptajk64-code/shivamguptajk64-code/blob/main/WhatsApp%20Image%202026-03-12%20at%208.28.55%20PM.jpeg)
 
