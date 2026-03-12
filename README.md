@@ -1,3 +1,4 @@
+![logo](https://github.com/shivamguptajk64-code/shivamguptajk64-code/blob/main/WhatsApp%20Image%202026-03-12%20at%208.28.55%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm shivam gupta</h1>
 <h3 align="center"> passionate from "Building web applications" with modern technologies</h3>
 
