@@ -1,18 +1,4 @@
 
-.wave {
-  display: inline-block;
-  font-size: 40px;
-  animation: wave-animation 1.5s infinite;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  20% { transform: rotate(20deg); }
-  40% { transform: rotate(-10deg); }
-  60% { transform: rotate(20deg); }
-  80% { transform: rotate(-5deg); }
-  100% { transform: rotate(0deg); }
-}
 <h1 align="center">Hi there<span class="wave">👋</span> I'm shivam gupta!</h1>
 
 ![logo](https://github.com/shivamguptajk64-code/shivamguptajk64-code/blob/main/WhatsApp%20Image%202026-03-12%20at%208.28.55%20PM.jpeg)
@@ -24,7 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamguptajk64-code&label=Profile%20views&color=0e75b6&style=flat" alt="shivamguptajk64-code" align= /> </p>
 
-- 📫 How to reach me **shivamguptajk782@gmail.com**
+ 🤝 Let's Connect
+📩 Email: shivamguptaajk782@gmail.com
+🌐 LinkedIn:www.linkedin.com/in/
 
 
 <p align="left">
