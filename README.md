@@ -13,7 +13,7 @@
  🤝 Let's Connect
 📩 Email: shivamguptajk782@gmail.com
 
-🌐 LinkedIn:www.linkedin.com/in/
+ 🌐LinkedIn:www.linkedin.com/in/
 
 
 <p align="left">
